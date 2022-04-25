@@ -1,3 +1,4 @@
+<h1 align="center">Harmony Server Team Members</h1>
 
 # [Developers](https://github.com/orgs/irharmony/teams/developer)
 
