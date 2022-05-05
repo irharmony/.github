@@ -1,12 +1,12 @@
 <h3 align="center"> <img src="https://avatars.githubusercontent.com/u/104295138?s=200&v=4"> </h3>
-<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">&nbsp;&nbsp;harmony The Best And Biggest Persian Server&nbsp;&nbsp;<img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></h1>
+<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">&nbsp;&nbsp;Harmony The Best And Biggest Persian Server&nbsp;&nbsp;<img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></h1>
 
-<p align="center"><h4 align="center"><samp>irharmony The Best Persian Community , You Can Make Funny Time With Your Friends Ans Find New Friends. <a href="https://discord.gg/iran" target="_blank">Join Server<a> </samp></h4></p>
+<p align="center"><h4 align="center"><samp>Harmony The Best Persian Community , You Can Make Funny Time With Your Friends Ans Find New Friends. <a href="https://discord.gg/iran">Join Server<a> </samp></h4></p>
 
 
 <h1 align="center">😼About Our Github Page</h1>
 
-<p align="center"><h4 align="center"><samp>&nbsp;&nbsp;You Can Check Server Bots Src In Irharmony Github Repository, By The Way Donst Forgot Star 😉 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony" target="_blank">🤖harmony Bot<a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony-ticket" target="_blank"> 🎟Harmony Ticket Bot<a> </samp></h4></p>
+<p align="center"><h4 align="center">You Can Check Server Bots SRC In Irharmony Github <a href="https://github.com/orgs/irharmony/repositories">Repository Page</a>, By The Way Dont Forgot To Star 😉 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony">🤖harmony Bot<a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony-ticket"> 🎟Harmony Ticket Bot<a></h4></p>
  
 
 
