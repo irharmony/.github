@@ -1,21 +1,17 @@
 <h3 align="center"> <img src="https://avatars.githubusercontent.com/u/104295138?s=200&v=4"> </h3>
 <h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">&nbsp;&nbsp;Harmony The Best And Biggest Persian Server&nbsp;&nbsp;<img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></h1>
 
-<p align="center"><h4 align="center"><samp>Harmony The Best Persian Community , You Can Make Funny Time With Your Friends Ans Find New Friends. <a href="https://discord.gg/iran">Join Server<a> </samp></h4></p>
+<p align="center"><h4 align="center">Harmony The Best Persian Community , You Can Make Funny Time With Your Friends Ans Find New Friends. <a href="https://discord.gg/iran">Join Server<a></h4></p>
 
 
 <h1 align="center">😼About Our Github Page</h1>
 
 <p align="center"><h4 align="center">You Can Check Server Bots SRC In Irharmony Github <a href="https://github.com/orgs/irharmony/repositories">Repository Page</a>, By The Way Dont Forgot To Star 😉</h4></p>
- 
-<p align="center"><h4 align="center"><a href="https://github.com/irharmony/harmony">🤖harmony Bot</a> / <a href="https://github.com/irharmony/harmony-ticket"> 🎟Harmony Ticket Bot</a></h4>
 
-<h1 align="center">🖥About Our Team</h1>
+<h1 align="center">🖥 About Our Team 🖥</h1>
 
-Hadi.az [Leader] 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hadiazt"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-</p>
+Leaders : 
+<a href="https://github.com/hadiazt">Hadi.az</a><img alt="GitHub" title="GitHub" height="32" width="32" src="https://avatars.githubusercontent.com/u/65118892?v=4">
 
 <img src="https://discord.c99.nl/widget/theme-2/490519932292038659.png" >
 
