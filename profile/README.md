@@ -1,6 +1,6 @@
 <h3 align="center"> <img src="https://avatars.githubusercontent.com/u/104295138?s=200&v=4"> </h3>
-<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">&nbsp;&nbsp;irharmony The Best And Biggest Persian Server<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">
-</h1>
+<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">&nbsp;&nbsp;irharmony The Best And Biggest Persian Server</h1>
+<h1 align="center"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">
 
 <p align="center"><h4 align="center"><samp>irharmony The Best Persian Community , You Can Make Funny Time With Your Friends Ans Find New Friends. <a href="https://discord.gg/iran" target="_blank">Join Server<a> </samp></h4></p>
 
