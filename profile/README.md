@@ -9,3 +9,54 @@
 <p align="center"><h4 align="center">You Can Check Server Bots SRC In Irharmony Github <a href="https://github.com/orgs/irharmony/repositories">Repository Page</a>, By The Way Dont Forgot To Star 😉</h4></p>
 
 <h1 align="center">🖥 About Our Team 🖥</h1>
+
+Hadi.az [Leader] 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hadiazt"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/490519932292038659.png" >
+
+Poriw.Hajti [Leader] 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/poriw-hjt"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/968204244354220113.png" >
+
+Mohammad Akh [Leader]
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mhmd-Akh"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/750337293927055452.png" >
+
+Hesam TooVinS
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hesawmgh1098"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/556854910805737478.png" >
+
+Parzival 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/parzivalw00"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/311194511931998209.png" >
+
+
+
+Doci Mk
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Doci-Mk"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/500740143532212245.png" >
+
+Electron
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Electron404"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+</p>
+
+<img src="https://discord.c99.nl/widget/theme-2/845575144394326057.png" >
