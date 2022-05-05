@@ -6,9 +6,9 @@
 
 <h1 align="center">😼About Our Github Page</h1>
 
-<p align="center"><h4 align="center">You Can Check Server Bots SRC In Irharmony Github <a href="https://github.com/orgs/irharmony/repositories">Repository Page</a>, By The Way Dont Forgot To Star 😉 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony">🤖harmony Bot<a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/irharmony/harmony-ticket"> 🎟Harmony Ticket Bot<a></h4></p>
+<p align="center"><h4 align="center">You Can Check Server Bots SRC In Irharmony Github <a href="https://github.com/orgs/irharmony/repositories">Repository Page</a>, By The Way Dont Forgot To Star 😉</h4></p>
  
-
+<p align="center"><h4 align="center"><a href="https://github.com/irharmony/harmony">🤖harmony Bot</a> / <a href="https://github.com/irharmony/harmony-ticket"> 🎟Harmony Ticket Bot</a></h4>
 
 <h1 align="center">🖥About Our Team</h1>
 
