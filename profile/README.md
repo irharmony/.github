@@ -13,8 +13,7 @@
 Leaders :
 
 </br>
-</br>
-<a href="https://github.com/hadiazt">Hadi.az &nbsp;&nbsp;</a><img alt="GitHub" title="GitHub" height="32" width="32" src="https://avatars.githubusercontent.com/u/65118892?v=4">
+<a href="https://github.com/hadiazt">Hadi.az </a><img alt="GitHub" title="GitHub" height="32" width="32" src="https://avatars.githubusercontent.com/u/65118892?v=4">
 
 </br>
 </br>
