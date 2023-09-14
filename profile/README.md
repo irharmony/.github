@@ -14,11 +14,8 @@
 <a href="https://github.com/hadiazt">Hadi.az [Leader]</a>
 </p>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mhmd-Akh">Mohammad Akh [Leader]</a>
 </p>
-
 
 <a href="https://github.com/Electron404">Electron</a>
 </p>
