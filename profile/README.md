@@ -10,17 +10,15 @@
 
 <h1 align="center">🖥 About Our Team 🖥</h1>
 
-Hadi.az [Leader] 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hadiazt"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+
+<a href="https://github.com/hadiazt">Hadi.az [Leader]</a>
 </p>
 
-Mohammad Akh [Leader]
+
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mhmd-Akh"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+<a href="https://github.com/Mhmd-Akh">Mohammad Akh [Leader]</a>
 </p>
 
-Electron
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Electron404"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+
+<a href="https://github.com/Electron404">Electron</a>
 </p>
